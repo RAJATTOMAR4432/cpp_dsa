@@ -1,1 +1,2 @@
-# cpp_dsa
+#include<iosteam>
+using namespacecstd
