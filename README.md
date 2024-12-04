@@ -1,2 +1,0 @@
-#include<iosteam>
-using namespacecstd
