@@ -13,3 +13,22 @@ int main() {
    
     return 0;
 }
+
+
+OR
+
+#include<iostream>
+using namespace std;
+int main() {
+    char ch;
+    cout<<"enter the char : \n";
+    cin>>ch;
+    if(ch>=97 && ch<=122) {
+        cout<<"chararcter is lowercase :\n";
+    }
+    else {
+        cout<<"character is uppercase:";
+    }
+   
+    return 0;
+}
