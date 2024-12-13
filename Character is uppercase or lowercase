@@ -1,0 +1,15 @@
+#include<iostream>
+using namespace std;
+int main() {
+    char ch;
+    cout<<"enter the char : \n";
+    cin>>ch;
+    if(ch>='a' && ch<='z') {
+        cout<<"chararcter is lowercase :\n";
+    }
+    else {
+        cout<<"character is uppercase:";
+    }
+   
+    return 0;
+}
